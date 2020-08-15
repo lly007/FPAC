@@ -32,9 +32,9 @@ This project passed the test in the following environment
 
 
 
-# Detail
-- **FPAC.py** is the keras model of FPAC, you may use this to build your own network
-- **train.py** is an example of classification training
+# Details
+- **FPAC.py** is the keras model of FPAC, you may use this to build your own network.
+- **train.py** is an example of classification training.
 - **PointPooling.py** is the max pooling layer for point clouds.
 - **PrepDataAndFPS.py** is used to preprocess the ModelNet data set, and perform FPS downsampling on the model in ModelNet to get the index of the sampling point. This process will take a long time.
 
