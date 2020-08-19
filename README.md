@@ -6,7 +6,7 @@
 ![The Overview of FPAC](https://github.com/lly007/FPAC/blob/master/image/fig2.png?raw=true "The Overview of FPAC")
 
 
-This is an implementation of FPAC using tensorflow and keras.
+This is an implementation of FPAC using TensorFlow and Keras.
 
 
 # Introduction
