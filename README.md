@@ -20,10 +20,10 @@ This project propose a new scheme, called Frame Point Attention Convolution (FPA
 #  Environment
 This project passed the test in the following environment
 ### Software
-- Windows 10 1904
-- tensorflow 2.1
-- CUDA 10.2
-- cudnn 7.6
+- Microsoft Windows 10 1904
+- TensorFlow 2.1
+- NVIDIA CUDA Toolkit 10.2
+- NVIDIA cuDNN 7.6
 
 ### Harware
 - Intel Core i9 9900K
