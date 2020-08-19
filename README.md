@@ -27,7 +27,7 @@ This project passed the test in the following environment
 
 ### Harware
 - Intel Core i9 9900K
-- NVIDIA TITAN RTX
+- NVIDIA TITAN RTX / NVIDIA Tesla V100
 - 64GB RAM
 
 
