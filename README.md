@@ -6,7 +6,7 @@
 ![The Overview of FPAC](https://github.com/lly007/FPAC/blob/main/image/fig2.png "The Overview of FPAC")
 
 
-This is an implementation of FPAC using PyTorch.
+This is an implementation of FPAC by PyTorch.
 
 
 # Introduction
