@@ -3,7 +3,7 @@
 **FPAC is a spatial convolution operator for point cloud**
 
 
-![The Overview of FPAC](https://github.com/lly007/FPAC/blob/master/image/fig2.png?raw=true "The Overview of FPAC")
+![The Overview of FPAC](https://github.com/lly007/FPAC/blob/main/image/fig2.png "The Overview of FPAC")
 
 
 This is an implementation of FPAC using PyTorch.
